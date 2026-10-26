@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "washer_name": "Simpson PowerShot PS4240 4200 PSI 4.0 GPM Honda GX390",
+    "slug": "simpson-powershot-ps4240-4200-psi-40-gpm-honda-gx390-nozzle-surface-cleaner-calculator",
+    "title": "Simpson PowerShot PS4240 4200 PSI 4.0 GPM Honda GX390 Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)",
+    "description": "Calculate exact nozzle orifice size (#4.0), max rotary surface cleaner diameter (16\"), dual-tip code (25020), and 16,800 Cleaning Units for Simpson PowerShot PS4240 4200 PSI 4.0 GPM Honda GX390.",
+    "psi": 4200,
+    "gpm": 4.0,
+    "orifice": 4.0,
+    "sc_in": 16,
+    "date": "2026-10-26"
+  },
+  {
+    "washer_name": "Simpson MegaShot MS60763-S 3300 PSI 2.4 GPM Honda GC190",
+    "slug": "simpson-megashot-ms60763-s-3300-psi-24-gpm-honda-gc190-nozzle-surface-cleaner-calculator",
+    "title": "Simpson MegaShot MS60763-S 3300 PSI 2.4 GPM Honda GC190 Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)",
+    "description": "Calculate exact nozzle orifice size (#2.5), max rotary surface cleaner diameter (10\"), dual-tip code (25012), and 7,920 Cleaning Units for Simpson MegaShot MS60763-S 3300 PSI 2.4 GPM Honda GC190.",
+    "psi": 3300,
+    "gpm": 2.4,
+    "orifice": 2.5,
+    "sc_in": 10,
+    "date": "2026-10-26"
+  },
+  {
+    "washer_name": "Simpson Aluminum ALH4240 4200 PSI 4.0 GPM CAT Triplex",
+    "slug": "simpson-aluminum-alh4240-4200-psi-40-gpm-cat-triplex-nozzle-surface-cleaner-calculator",
+    "title": "Simpson Aluminum ALH4240 4200 PSI 4.0 GPM CAT Triplex Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)",
+    "description": "Calculate exact nozzle orifice size (#4.0), max rotary surface cleaner diameter (16\"), dual-tip code (25020), and 16,800 Cleaning Units for Simpson Aluminum ALH4240 4200 PSI 4.0 GPM CAT Triplex.",
+    "psi": 4200,
+    "gpm": 4.0,
+    "orifice": 4.0,
+    "sc_in": 16,
+    "date": "2026-10-26"
+  }
+]

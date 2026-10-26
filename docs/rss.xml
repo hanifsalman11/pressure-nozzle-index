@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OrificeWashIndex Pressure Washer & Surface Cleaner Database</title>
+    <link>https://hanifsalman11.github.io/pressure-nozzle-index/</link>
+    <description>Interactive Pressure Washer Orifice Nozzle, Surface Cleaner & PSI Calculators</description>
+    <atom:link href="https://hanifsalman11.github.io/pressure-nozzle-index/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
+    <item>
+      <title>Simpson Aluminum ALH4240 4200 PSI 4.0 GPM CAT Triplex Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/pressure-nozzle-index/simpson-aluminum-alh4240-4200-psi-40-gpm-cat-triplex-nozzle-surface-cleaner-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/pressure-nozzle-index/simpson-aluminum-alh4240-4200-psi-40-gpm-cat-triplex-nozzle-surface-cleaner-calculator.html</guid>
+      <description>Calculate exact nozzle orifice size (#4.0), max rotary surface cleaner diameter (16"), dual-tip code (25020), and 16,800 Cleaning Units for Simpson Aluminum ALH4240 4200 PSI 4.0 GPM CAT Triplex.</description>
+    </item>
+    <item>
+      <title>Simpson MegaShot MS60763-S 3300 PSI 2.4 GPM Honda GC190 Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/pressure-nozzle-index/simpson-megashot-ms60763-s-3300-psi-24-gpm-honda-gc190-nozzle-surface-cleaner-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/pressure-nozzle-index/simpson-megashot-ms60763-s-3300-psi-24-gpm-honda-gc190-nozzle-surface-cleaner-calculator.html</guid>
+      <description>Calculate exact nozzle orifice size (#2.5), max rotary surface cleaner diameter (10"), dual-tip code (25012), and 7,920 Cleaning Units for Simpson MegaShot MS60763-S 3300 PSI 2.4 GPM Honda GC190.</description>
+    </item>
+    <item>
+      <title>Simpson PowerShot PS4240 4200 PSI 4.0 GPM Honda GX390 Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/pressure-nozzle-index/simpson-powershot-ps4240-4200-psi-40-gpm-honda-gx390-nozzle-surface-cleaner-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/pressure-nozzle-index/simpson-powershot-ps4240-4200-psi-40-gpm-honda-gx390-nozzle-surface-cleaner-calculator.html</guid>
+      <description>Calculate exact nozzle orifice size (#4.0), max rotary surface cleaner diameter (16"), dual-tip code (25020), and 16,800 Cleaning Units for Simpson PowerShot PS4240 4200 PSI 4.0 GPM Honda GX390.</description>
+    </item>
+  </channel>
+</rss>

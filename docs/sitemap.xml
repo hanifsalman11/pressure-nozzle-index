@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hanifsalman11.github.io/pressure-nozzle-index/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -39,6 +39,24 @@
   <url>
     <loc>https://hanifsalman11.github.io/pressure-nozzle-index/dewalt-dxpw3425-3400-psi-25-gpm-honda-gx200-nozzle-surface-cleaner-calculator.html</loc>
     <lastmod>2026-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/pressure-nozzle-index/westinghouse-wpx3400-3400-psi-26-gpm-gas-washer-nozzle-surface-cleaner-calculator.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/pressure-nozzle-index/westinghouse-wpx4400-4400-psi-42-gpm-commercial-nozzle-surface-cleaner-calculator.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/pressure-nozzle-index/generac-speedwash-3200-psi-27-gpm-powerdial-washer-nozzle-surface-cleaner-calculator.html</loc>
+    <lastmod>2026-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>

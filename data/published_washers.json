@@ -163,5 +163,38 @@
     "orifice": 2.5,
     "sc_in": 10,
     "date": "2026-10-27"
+  },
+  {
+    "washer_name": "Active 2.0 Electric Car Detailing Washer (1800 PSI 2.0 GPM)",
+    "slug": "active-20-electric-car-detailing-washer-1800-psi-20-gpm-nozzle-surface-cleaner-calculator",
+    "title": "Active 2.0 Electric Car Detailing Washer (1800 PSI 2.0 GPM) Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)",
+    "description": "Calculate exact nozzle orifice size (#4.0), max rotary surface cleaner diameter (8\"), dual-tip code (25020), and 2,200 Cleaning Units for Active 2.0 Electric Car Detailing Washer (1800 PSI 2.0 GPM).",
+    "psi": 1100,
+    "gpm": 2.0,
+    "orifice": 4.0,
+    "sc_in": 8,
+    "date": "2026-10-28"
+  },
+  {
+    "washer_name": "AR Blue Clean AR630-TSS Pro 1900 PSI 2.1 GPM Electric",
+    "slug": "ar-blue-clean-ar630-tss-pro-1900-psi-21-gpm-electric-nozzle-surface-cleaner-calculator",
+    "title": "AR Blue Clean AR630-TSS Pro 1900 PSI 2.1 GPM Electric Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)",
+    "description": "Calculate exact nozzle orifice size (#3.0), max rotary surface cleaner diameter (8\"), dual-tip code (25015), and 3,990 Cleaning Units for AR Blue Clean AR630-TSS Pro 1900 PSI 2.1 GPM Electric.",
+    "psi": 1900,
+    "gpm": 2.1,
+    "orifice": 3.0,
+    "sc_in": 8,
+    "date": "2026-10-28"
+  },
+  {
+    "washer_name": "Kranzle K1122TST 1400 PSI 2.1 GPM Pro Detailing Rig",
+    "slug": "kranzle-k1122tst-1400-psi-21-gpm-pro-detailing-rig-nozzle-surface-cleaner-calculator",
+    "title": "Kranzle K1122TST 1400 PSI 2.1 GPM Pro Detailing Rig Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)",
+    "description": "Calculate exact nozzle orifice size (#3.5), max rotary surface cleaner diameter (8\"), dual-tip code (25018), and 2,940 Cleaning Units for Kranzle K1122TST 1400 PSI 2.1 GPM Pro Detailing Rig.",
+    "psi": 1400,
+    "gpm": 2.1,
+    "orifice": 3.5,
+    "sc_in": 8,
+    "date": "2026-10-28"
   }
 ]

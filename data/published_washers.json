@@ -229,5 +229,38 @@
     "orifice": 3.5,
     "sc_in": 14,
     "date": "2026-10-28"
+  },
+  {
+    "washer_name": "5.5 GPM 3500 PSI Skid-Mount Commercial Trailer Rig",
+    "slug": "55-gpm-3500-psi-skid-mount-commercial-trailer-rig-nozzle-surface-cleaner-calculator",
+    "title": "5.5 GPM 3500 PSI Skid-Mount Commercial Trailer Rig Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)",
+    "description": "Calculate exact nozzle orifice size (#6.0), max rotary surface cleaner diameter (22\"), dual-tip code (25030), and 19,250 Cleaning Units for 5.5 GPM 3500 PSI Skid-Mount Commercial Trailer Rig.",
+    "psi": 3500,
+    "gpm": 5.5,
+    "orifice": 6.0,
+    "sc_in": 22,
+    "date": "2026-10-28"
+  },
+  {
+    "washer_name": "8.0 GPM 3500 PSI V-Twin Commercial Flatwork Rig",
+    "slug": "80-gpm-3500-psi-v-twin-commercial-flatwork-rig-nozzle-surface-cleaner-calculator",
+    "title": "8.0 GPM 3500 PSI V-Twin Commercial Flatwork Rig Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)",
+    "description": "Calculate exact nozzle orifice size (#8.5), max rotary surface cleaner diameter (32\"), dual-tip code (25042), and 28,000 Cleaning Units for 8.0 GPM 3500 PSI V-Twin Commercial Flatwork Rig.",
+    "psi": 3500,
+    "gpm": 8.0,
+    "orifice": 8.5,
+    "sc_in": 32,
+    "date": "2026-10-28"
+  },
+  {
+    "washer_name": "4.0 GPM 4000 PSI Driveway Surface Cleaner Sizing",
+    "slug": "40-gpm-4000-psi-driveway-surface-cleaner-sizing-nozzle-surface-cleaner-calculator",
+    "title": "4.0 GPM 4000 PSI Driveway Surface Cleaner Sizing Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)",
+    "description": "Calculate exact nozzle orifice size (#4.0), max rotary surface cleaner diameter (16\"), dual-tip code (25020), and 16,000 Cleaning Units for 4.0 GPM 4000 PSI Driveway Surface Cleaner Sizing.",
+    "psi": 4000,
+    "gpm": 4.0,
+    "orifice": 4.0,
+    "sc_in": 16,
+    "date": "2026-10-28"
   }
 ]

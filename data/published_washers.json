@@ -295,5 +295,38 @@
     "orifice": 4.0,
     "sc_in": 16,
     "date": "2026-10-29"
+  },
+  {
+    "washer_name": "General Pump EZ4040G34 4000 PSI 4.0 GPM Triplex",
+    "slug": "general-pump-ez4040g34-4000-psi-40-gpm-triplex-nozzle-surface-cleaner-calculator",
+    "title": "General Pump EZ4040G34 4000 PSI 4.0 GPM Triplex Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)",
+    "description": "Calculate exact nozzle orifice size (#4.0), max rotary surface cleaner diameter (16\"), dual-tip code (25020), and 16,000 Cleaning Units for General Pump EZ4040G34 4000 PSI 4.0 GPM Triplex.",
+    "psi": 4000,
+    "gpm": 4.0,
+    "orifice": 4.0,
+    "sc_in": 16,
+    "date": "2026-10-29"
+  },
+  {
+    "washer_name": "Whisper Wash Classic 19-Inch Dual-Nozzle Bar Sizing",
+    "slug": "whisper-wash-classic-19-inch-dual-nozzle-bar-sizing-nozzle-surface-cleaner-calculator",
+    "title": "Whisper Wash Classic 19-Inch Dual-Nozzle Bar Sizing Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)",
+    "description": "Calculate exact nozzle orifice size (#4.5), max rotary surface cleaner diameter (18\"), dual-tip code (25022), and 18,000 Cleaning Units for Whisper Wash Classic 19-Inch Dual-Nozzle Bar Sizing.",
+    "psi": 4000,
+    "gpm": 4.5,
+    "orifice": 4.5,
+    "sc_in": 18,
+    "date": "2026-10-29"
+  },
+  {
+    "washer_name": "BE Whirl-A-Way 16-Inch & 20-Inch Surface Cleaner Sizing",
+    "slug": "be-whirl-a-way-16-inch-20-inch-surface-cleaner-sizing-nozzle-surface-cleaner-calculator",
+    "title": "BE Whirl-A-Way 16-Inch & 20-Inch Surface Cleaner Sizing Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)",
+    "description": "Calculate exact nozzle orifice size (#4.0), max rotary surface cleaner diameter (16\"), dual-tip code (25020), and 16,000 Cleaning Units for BE Whirl-A-Way 16-Inch & 20-Inch Surface Cleaner Sizing.",
+    "psi": 4000,
+    "gpm": 4.0,
+    "orifice": 4.0,
+    "sc_in": 16,
+    "date": "2026-10-29"
   }
 ]

@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/pressure-nozzle-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>2.3 Gpm Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/pressure-nozzle-index/23-gpm-nozzle-surface-cleaner-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/pressure-nozzle-index/23-gpm-nozzle-surface-cleaner-calculator.html</guid>
+      <description>Calculate exact nozzle orifice size (#2.5), max rotary surface cleaner diameter (9"), dual-tip code (25012), and 9,200 Cleaning Units for 2.3 Gpm.</description>
+    </item>
+    <item>
+      <title>2.4 Gpm Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/pressure-nozzle-index/24-gpm-nozzle-surface-cleaner-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/pressure-nozzle-index/24-gpm-nozzle-surface-cleaner-calculator.html</guid>
+      <description>Calculate exact nozzle orifice size (#2.5), max rotary surface cleaner diameter (10"), dual-tip code (25012), and 9,600 Cleaning Units for 2.4 Gpm.</description>
+    </item>
+    <item>
+      <title>3.5 Gpm Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/pressure-nozzle-index/35-gpm-nozzle-surface-cleaner-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/pressure-nozzle-index/35-gpm-nozzle-surface-cleaner-calculator.html</guid>
+      <description>Calculate exact nozzle orifice size (#3.5), max rotary surface cleaner diameter (14"), dual-tip code (25018), and 14,000 Cleaning Units for 3.5 Gpm.</description>
+    </item>
+    <item>
       <title>4.2 Gpm Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/pressure-nozzle-index/42-gpm-nozzle-surface-cleaner-calculator.html</link>
       <guid>https://hanifsalman11.github.io/pressure-nozzle-index/42-gpm-nozzle-surface-cleaner-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/pressure-nozzle-index/westinghouse-wpx3400-3400-psi-26-gpm-gas-washer-nozzle-surface-cleaner-calculator.html</link>
       <guid>https://hanifsalman11.github.io/pressure-nozzle-index/westinghouse-wpx3400-3400-psi-26-gpm-gas-washer-nozzle-surface-cleaner-calculator.html</guid>
       <description>Calculate exact nozzle orifice size (#3.0), max rotary surface cleaner diameter (10"), dual-tip code (25015), and 8,840 Cleaning Units for Westinghouse WPX3400 3400 PSI 2.6 GPM Gas Washer.</description>
-    </item>
-    <item>
-      <title>DeWalt DXPW3425 3400 PSI 2.5 GPM Honda GX200 Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/pressure-nozzle-index/dewalt-dxpw3425-3400-psi-25-gpm-honda-gx200-nozzle-surface-cleaner-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/pressure-nozzle-index/dewalt-dxpw3425-3400-psi-25-gpm-honda-gx200-nozzle-surface-cleaner-calculator.html</guid>
-      <description>Calculate exact nozzle orifice size (#2.5), max rotary surface cleaner diameter (10"), dual-tip code (25012), and 8,500 Cleaning Units for DeWalt DXPW3425 3400 PSI 2.5 GPM Honda GX200.</description>
-    </item>
-    <item>
-      <title>DeWalt DXPW4240 4200 PSI 4.0 GPM Honda GX390 Pro Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/pressure-nozzle-index/dewalt-dxpw4240-4200-psi-40-gpm-honda-gx390-pro-nozzle-surface-cleaner-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/pressure-nozzle-index/dewalt-dxpw4240-4200-psi-40-gpm-honda-gx390-pro-nozzle-surface-cleaner-calculator.html</guid>
-      <description>Calculate exact nozzle orifice size (#4.0), max rotary surface cleaner diameter (16"), dual-tip code (25020), and 16,800 Cleaning Units for DeWalt DXPW4240 4200 PSI 4.0 GPM Honda GX390 Pro.</description>
-    </item>
-    <item>
-      <title>DeWalt DXPW3835 3800 PSI 3.5 GPM Honda GX270 Commercial Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/pressure-nozzle-index/dewalt-dxpw3835-3800-psi-35-gpm-honda-gx270-commercial-nozzle-surface-cleaner-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/pressure-nozzle-index/dewalt-dxpw3835-3800-psi-35-gpm-honda-gx270-commercial-nozzle-surface-cleaner-calculator.html</guid>
-      <description>Calculate exact nozzle orifice size (#3.5), max rotary surface cleaner diameter (14"), dual-tip code (25018), and 13,300 Cleaning Units for DeWalt DXPW3835 3800 PSI 3.5 GPM Honda GX270 Commercial.</description>
     </item>
   </channel>
 </rss>

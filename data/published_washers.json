@@ -394,5 +394,38 @@
     "orifice": 2.5,
     "sc_in": 9,
     "date": "2026-10-30"
+  },
+  {
+    "washer_name": "8 Gpm",
+    "slug": "8-gpm-nozzle-surface-cleaner-calculator",
+    "title": "8 Gpm Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)",
+    "description": "Calculate exact nozzle orifice size (#8.0), max rotary surface cleaner diameter (32\"), dual-tip code (25040), and 32,000 Cleaning Units for 8 Gpm.",
+    "psi": 4000,
+    "gpm": 8.0,
+    "orifice": 8.0,
+    "sc_in": 32,
+    "date": "2026-10-30"
+  },
+  {
+    "washer_name": "5.5 Gpm",
+    "slug": "55-gpm-nozzle-surface-cleaner-calculator",
+    "title": "5.5 Gpm Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)",
+    "description": "Calculate exact nozzle orifice size (#5.5), max rotary surface cleaner diameter (22\"), dual-tip code (25028), and 22,000 Cleaning Units for 5.5 Gpm.",
+    "psi": 4000,
+    "gpm": 5.5,
+    "orifice": 5.5,
+    "sc_in": 22,
+    "date": "2026-10-30"
+  },
+  {
+    "washer_name": "2.6 Gpm",
+    "slug": "26-gpm-nozzle-surface-cleaner-calculator",
+    "title": "2.6 Gpm Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)",
+    "description": "Calculate exact nozzle orifice size (#2.5), max rotary surface cleaner diameter (10\"), dual-tip code (25012), and 10,400 Cleaning Units for 2.6 Gpm.",
+    "psi": 4000,
+    "gpm": 2.6,
+    "orifice": 2.5,
+    "sc_in": 10,
+    "date": "2026-10-30"
   }
 ]

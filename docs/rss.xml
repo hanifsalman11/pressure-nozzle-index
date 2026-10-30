@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/pressure-nozzle-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>2.6 Gpm Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/pressure-nozzle-index/26-gpm-nozzle-surface-cleaner-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/pressure-nozzle-index/26-gpm-nozzle-surface-cleaner-calculator.html</guid>
+      <description>Calculate exact nozzle orifice size (#2.5), max rotary surface cleaner diameter (10"), dual-tip code (25012), and 10,400 Cleaning Units for 2.6 Gpm.</description>
+    </item>
+    <item>
+      <title>5.5 Gpm Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/pressure-nozzle-index/55-gpm-nozzle-surface-cleaner-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/pressure-nozzle-index/55-gpm-nozzle-surface-cleaner-calculator.html</guid>
+      <description>Calculate exact nozzle orifice size (#5.5), max rotary surface cleaner diameter (22"), dual-tip code (25028), and 22,000 Cleaning Units for 5.5 Gpm.</description>
+    </item>
+    <item>
+      <title>8 Gpm Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/pressure-nozzle-index/8-gpm-nozzle-surface-cleaner-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/pressure-nozzle-index/8-gpm-nozzle-surface-cleaner-calculator.html</guid>
+      <description>Calculate exact nozzle orifice size (#8.0), max rotary surface cleaner diameter (32"), dual-tip code (25040), and 32,000 Cleaning Units for 8 Gpm.</description>
+    </item>
+    <item>
       <title>2.3 Gpm Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/pressure-nozzle-index/23-gpm-nozzle-surface-cleaner-calculator.html</link>
       <guid>https://hanifsalman11.github.io/pressure-nozzle-index/23-gpm-nozzle-surface-cleaner-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/pressure-nozzle-index/generac-pro-4200-psi-40-gpm-belt-drive-triplex-nozzle-surface-cleaner-calculator.html</link>
       <guid>https://hanifsalman11.github.io/pressure-nozzle-index/generac-pro-4200-psi-40-gpm-belt-drive-triplex-nozzle-surface-cleaner-calculator.html</guid>
       <description>Calculate exact nozzle orifice size (#4.0), max rotary surface cleaner diameter (16"), dual-tip code (25020), and 16,800 Cleaning Units for Generac Pro 4200 PSI 4.0 GPM Belt-Drive Triplex.</description>
-    </item>
-    <item>
-      <title>Generac SpeedWash 3200 PSI 2.7 GPM PowerDial Washer Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/pressure-nozzle-index/generac-speedwash-3200-psi-27-gpm-powerdial-washer-nozzle-surface-cleaner-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/pressure-nozzle-index/generac-speedwash-3200-psi-27-gpm-powerdial-washer-nozzle-surface-cleaner-calculator.html</guid>
-      <description>Calculate exact nozzle orifice size (#3.0), max rotary surface cleaner diameter (11"), dual-tip code (25015), and 8,640 Cleaning Units for Generac SpeedWash 3200 PSI 2.7 GPM PowerDial Washer.</description>
-    </item>
-    <item>
-      <title>Westinghouse WPX4400 4400 PSI 4.2 GPM Commercial Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/pressure-nozzle-index/westinghouse-wpx4400-4400-psi-42-gpm-commercial-nozzle-surface-cleaner-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/pressure-nozzle-index/westinghouse-wpx4400-4400-psi-42-gpm-commercial-nozzle-surface-cleaner-calculator.html</guid>
-      <description>Calculate exact nozzle orifice size (#4.0), max rotary surface cleaner diameter (17"), dual-tip code (25020), and 18,480 Cleaning Units for Westinghouse WPX4400 4400 PSI 4.2 GPM Commercial.</description>
-    </item>
-    <item>
-      <title>Westinghouse WPX3400 3400 PSI 2.6 GPM Gas Washer Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/pressure-nozzle-index/westinghouse-wpx3400-3400-psi-26-gpm-gas-washer-nozzle-surface-cleaner-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/pressure-nozzle-index/westinghouse-wpx3400-3400-psi-26-gpm-gas-washer-nozzle-surface-cleaner-calculator.html</guid>
-      <description>Calculate exact nozzle orifice size (#3.0), max rotary surface cleaner diameter (10"), dual-tip code (25015), and 8,840 Cleaning Units for Westinghouse WPX3400 3400 PSI 2.6 GPM Gas Washer.</description>
     </item>
   </channel>
 </rss>

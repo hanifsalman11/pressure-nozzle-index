@@ -460,5 +460,38 @@
     "orifice": 4.0,
     "sc_in": 16,
     "date": "2026-10-30"
+  },
+  {
+    "washer_name": "Simpson Powershot 3600",
+    "slug": "simpson-powershot-3600-nozzle-surface-cleaner-calculator",
+    "title": "Simpson Powershot 3600 Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)",
+    "description": "Calculate exact nozzle orifice size (#4.0), max rotary surface cleaner diameter (16\"), dual-tip code (25020), and 16,000 Cleaning Units for Simpson Powershot 3600.",
+    "psi": 4000,
+    "gpm": 4.0,
+    "orifice": 4.0,
+    "sc_in": 16,
+    "date": "2026-10-31"
+  },
+  {
+    "washer_name": "Simpson Powershot 4000",
+    "slug": "simpson-powershot-4000-nozzle-surface-cleaner-calculator",
+    "title": "Simpson Powershot 4000 Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)",
+    "description": "Calculate exact nozzle orifice size (#4.0), max rotary surface cleaner diameter (16\"), dual-tip code (25020), and 16,000 Cleaning Units for Simpson Powershot 4000.",
+    "psi": 4000,
+    "gpm": 4.0,
+    "orifice": 4.0,
+    "sc_in": 16,
+    "date": "2026-10-31"
+  },
+  {
+    "washer_name": "Simpson Powershot Ps4240",
+    "slug": "simpson-powershot-ps4240-nozzle-surface-cleaner-calculator",
+    "title": "Simpson Powershot Ps4240 Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)",
+    "description": "Calculate exact nozzle orifice size (#4.0), max rotary surface cleaner diameter (16\"), dual-tip code (25020), and 16,000 Cleaning Units for Simpson Powershot Ps4240.",
+    "psi": 4000,
+    "gpm": 4.0,
+    "orifice": 4.0,
+    "sc_in": 16,
+    "date": "2026-10-31"
   }
 ]

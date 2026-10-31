@@ -526,5 +526,38 @@
     "orifice": 4.0,
     "sc_in": 16,
     "date": "2026-10-31"
+  },
+  {
+    "washer_name": "Simpson Powershot 4200 Psi",
+    "slug": "simpson-powershot-4200-psi-nozzle-surface-cleaner-calculator",
+    "title": "Simpson Powershot 4200 Psi Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)",
+    "description": "Calculate exact nozzle orifice size (#4.0), max rotary surface cleaner diameter (16\"), dual-tip code (25020), and 16,800 Cleaning Units for Simpson Powershot 4200 Psi.",
+    "psi": 4200,
+    "gpm": 4.0,
+    "orifice": 4.0,
+    "sc_in": 16,
+    "date": "2026-10-31"
+  },
+  {
+    "washer_name": "Pressure Washer Nozzle  In Mm",
+    "slug": "pressure-washer-nozzle-in-mm-nozzle-surface-cleaner-calculator",
+    "title": "Pressure Washer Nozzle  In Mm Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)",
+    "description": "Calculate exact nozzle orifice size (#4.0), max rotary surface cleaner diameter (16\"), dual-tip code (25020), and 16,000 Cleaning Units for Pressure Washer Nozzle  In Mm.",
+    "psi": 4000,
+    "gpm": 4.0,
+    "orifice": 4.0,
+    "sc_in": 16,
+    "date": "2026-10-31"
+  },
+  {
+    "washer_name": "Car Wash",
+    "slug": "car-wash-nozzle-surface-cleaner-calculator",
+    "title": "Car Wash Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)",
+    "description": "Calculate exact nozzle orifice size (#4.0), max rotary surface cleaner diameter (16\"), dual-tip code (25020), and 16,000 Cleaning Units for Car Wash.",
+    "psi": 4000,
+    "gpm": 4.0,
+    "orifice": 4.0,
+    "sc_in": 16,
+    "date": "2026-10-31"
   }
 ]

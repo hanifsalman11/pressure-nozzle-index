@@ -559,5 +559,38 @@
     "orifice": 4.0,
     "sc_in": 16,
     "date": "2026-10-31"
+  },
+  {
+    "washer_name": "Pressure Washer Nozzle",
+    "slug": "pressure-washer-nozzle-nozzle-surface-cleaner-calculator",
+    "title": "Pressure Washer Nozzle Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)",
+    "description": "Calculate exact nozzle orifice size (#4.0), max rotary surface cleaner diameter (16\"), dual-tip code (25020), and 16,000 Cleaning Units for Pressure Washer Nozzle.",
+    "psi": 4000,
+    "gpm": 4.0,
+    "orifice": 4.0,
+    "sc_in": 16,
+    "date": "2026-11-01"
+  },
+  {
+    "washer_name": "Pressure Washer Nozzle  Guide",
+    "slug": "pressure-washer-nozzle-guide-nozzle-surface-cleaner-calculator",
+    "title": "Pressure Washer Nozzle  Guide Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)",
+    "description": "Calculate exact nozzle orifice size (#4.0), max rotary surface cleaner diameter (16\"), dual-tip code (25020), and 16,000 Cleaning Units for Pressure Washer Nozzle  Guide.",
+    "psi": 4000,
+    "gpm": 4.0,
+    "orifice": 4.0,
+    "sc_in": 16,
+    "date": "2026-11-01"
+  },
+  {
+    "washer_name": "Pressure Washer Nozzle   Pdf",
+    "slug": "pressure-washer-nozzle-pdf-nozzle-surface-cleaner-calculator",
+    "title": "Pressure Washer Nozzle   Pdf Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)",
+    "description": "Calculate exact nozzle orifice size (#4.0), max rotary surface cleaner diameter (16\"), dual-tip code (25020), and 16,000 Cleaning Units for Pressure Washer Nozzle   Pdf.",
+    "psi": 4000,
+    "gpm": 4.0,
+    "orifice": 4.0,
+    "sc_in": 16,
+    "date": "2026-11-01"
   }
 ]

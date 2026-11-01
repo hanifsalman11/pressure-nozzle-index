@@ -625,5 +625,38 @@
     "orifice": 2.5,
     "sc_in": 10,
     "date": "2026-11-01"
+  },
+  {
+    "washer_name": "Dewalt Pressure Washer 3600 Psi",
+    "slug": "dewalt-pressure-washer-3600-psi-nozzle-surface-cleaner-calculator",
+    "title": "Dewalt Pressure Washer 3600 Psi Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)",
+    "description": "Calculate exact nozzle orifice size (#2.5), max rotary surface cleaner diameter (10\"), dual-tip code (25012), and 9,000 Cleaning Units for Dewalt Pressure Washer 3600 Psi.",
+    "psi": 3600,
+    "gpm": 2.5,
+    "orifice": 2.5,
+    "sc_in": 10,
+    "date": "2026-11-01"
+  },
+  {
+    "washer_name": "Dewalt Pressure Washer 20V",
+    "slug": "dewalt-pressure-washer-20v-nozzle-surface-cleaner-calculator",
+    "title": "Dewalt Pressure Washer 20V Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)",
+    "description": "Calculate exact nozzle orifice size (#4.0), max rotary surface cleaner diameter (16\"), dual-tip code (25020), and 16,000 Cleaning Units for Dewalt Pressure Washer 20V.",
+    "psi": 4000,
+    "gpm": 4.0,
+    "orifice": 4.0,
+    "sc_in": 16,
+    "date": "2026-11-01"
+  },
+  {
+    "washer_name": "Dewalt Pressure Washer 4400 Psi",
+    "slug": "dewalt-pressure-washer-4400-psi-nozzle-surface-cleaner-calculator",
+    "title": "Dewalt Pressure Washer 4400 Psi Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)",
+    "description": "Calculate exact nozzle orifice size (#4.0), max rotary surface cleaner diameter (16\"), dual-tip code (25020), and 17,600 Cleaning Units for Dewalt Pressure Washer 4400 Psi.",
+    "psi": 4400,
+    "gpm": 4.0,
+    "orifice": 4.0,
+    "sc_in": 16,
+    "date": "2026-11-01"
   }
 ]

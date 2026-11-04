@@ -7,6 +7,18 @@
     <atom:link href="https://hanifsalman11.github.io/pressure-nozzle-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Simpson Powershot 4400 Psi Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/pressure-nozzle-index/simpson-powershot-4400-psi-nozzle-surface-cleaner-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/pressure-nozzle-index/simpson-powershot-4400-psi-nozzle-surface-cleaner-calculator.html</guid>
+      <description>Calculate exact nozzle orifice size (#4.0), max rotary surface cleaner diameter (16"), dual-tip code (25020), and 17,600 Cleaning Units for Simpson Powershot 4400 Psi.</description>
+    </item>
+    <item>
+      <title>Simpson Powershot 3300 Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/pressure-nozzle-index/simpson-powershot-3300-nozzle-surface-cleaner-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/pressure-nozzle-index/simpson-powershot-3300-nozzle-surface-cleaner-calculator.html</guid>
+      <description>Calculate exact nozzle orifice size (#4.0), max rotary surface cleaner diameter (16"), dual-tip code (25020), and 16,000 Cleaning Units for Simpson Powershot 3300.</description>
+    </item>
+    <item>
       <title>Dewalt Pressure Washer 2100 Psi Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/pressure-nozzle-index/dewalt-pressure-washer-2100-psi-nozzle-surface-cleaner-calculator.html</link>
       <guid>https://hanifsalman11.github.io/pressure-nozzle-index/dewalt-pressure-washer-2100-psi-nozzle-surface-cleaner-calculator.html</guid>
@@ -173,18 +185,6 @@
       <link>https://hanifsalman11.github.io/pressure-nozzle-index/26-gpm-nozzle-surface-cleaner-calculator.html</link>
       <guid>https://hanifsalman11.github.io/pressure-nozzle-index/26-gpm-nozzle-surface-cleaner-calculator.html</guid>
       <description>Calculate exact nozzle orifice size (#2.5), max rotary surface cleaner diameter (10"), dual-tip code (25012), and 10,400 Cleaning Units for 2.6 Gpm.</description>
-    </item>
-    <item>
-      <title>5.5 Gpm Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/pressure-nozzle-index/55-gpm-nozzle-surface-cleaner-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/pressure-nozzle-index/55-gpm-nozzle-surface-cleaner-calculator.html</guid>
-      <description>Calculate exact nozzle orifice size (#5.5), max rotary surface cleaner diameter (22"), dual-tip code (25028), and 22,000 Cleaning Units for 5.5 Gpm.</description>
-    </item>
-    <item>
-      <title>8 Gpm Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/pressure-nozzle-index/8-gpm-nozzle-surface-cleaner-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/pressure-nozzle-index/8-gpm-nozzle-surface-cleaner-calculator.html</guid>
-      <description>Calculate exact nozzle orifice size (#8.0), max rotary surface cleaner diameter (32"), dual-tip code (25040), and 32,000 Cleaning Units for 8 Gpm.</description>
     </item>
   </channel>
 </rss>

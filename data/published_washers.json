@@ -779,5 +779,16 @@
     "orifice": 4.0,
     "sc_in": 16,
     "date": "2026-11-26"
+  },
+  {
+    "washer_name": "Dewalt Pressure Washer Black Friday",
+    "slug": "dewalt-pressure-washer-black-friday-nozzle-surface-cleaner-calculator",
+    "title": "Dewalt Pressure Washer Black Friday Orifice Nozzle, Surface Cleaner & PSI Calculator (2026)",
+    "description": "Calculate exact nozzle orifice size (#4.0), max rotary surface cleaner diameter (16\"), dual-tip code (25020), and 16,000 Cleaning Units for Dewalt Pressure Washer Black Friday.",
+    "psi": 4000,
+    "gpm": 4.0,
+    "orifice": 4.0,
+    "sc_in": 16,
+    "date": "2026-11-28"
   }
 ]
